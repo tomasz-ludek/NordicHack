@@ -1,0 +1,13 @@
+package org.ifit.sucks.data
+
+/**
+ * 04 1c 02 09 00 00 40 02 18 40 00 00 80 30 2a 00 00 20 1c 58 02 01 b4 00 58 02 00 44
+ */
+class Start3Package : DataPackage() {
+
+    override val data =
+        byteArrayOf(
+            4, 28, 2, 9, 0, 0, 64, 2, 24, 64, 0, 0, -128, 48,
+            42, 0, 0, 32, 28, 88, 2, 1, -76, 0, 88, 2, 0
+        )
+}

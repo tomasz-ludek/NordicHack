@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<StructuredWorkout title="W01D3-Interval">
+    <Exercise duration="1:00" incline="1" pace="6:00" />
+    <Exercise duration="2:00" incline="1" pace="5:20" />
+    <ExerciseSet reps="4">
+        <Exercise duration="1:00" incline="1" pace="3:59" />
+        <Exercise duration="2:00" incline="1" pace="6:00" />
+    </ExerciseSet>
+    <Exercise duration="10:00" incline="1" pace="5:00" />
+</StructuredWorkout>
